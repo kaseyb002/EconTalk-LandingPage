@@ -135,8 +135,14 @@ body {
 .top-buffer {
   margin-top: 60px;
 }
+.baby-top-buffer {
+  margin-top: 15px;
+}
 .bottom-buffer {
   margin-bottom: 60px;
+}
+.baby-bottom-buffer {
+  margin-bottom: 15px;
 }
 .transition-third-sec {
   -o-transition:.3s;
@@ -204,4 +210,21 @@ a.no-decor {
 }
 .app-store {
   width: 50%;
+}
+img.curved-shadow {
+  border-radius: 15px;
+  box-shadow: 2.2px 2.2px 2.2px 2.2px #222;
+}
+.apply-button {
+  background-color: #228DFF;
+  border-color: #228DFF;
+  font-size: 2em;
+  border-radius: 15px;
+  box-shadow: 2.2px 2.2px 2.2px 2.2px #444;
+}
+hr {
+  background-color: #FFFFFF33;
+}
+.about {
+  font-size: 1.2em;
 }
