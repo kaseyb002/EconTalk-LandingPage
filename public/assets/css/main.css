@@ -1,23 +1,5 @@
-@font-face {
-  font-family: 'sf-pro';
-  src: url('fonts/SF-Pro-Text-Bold.otf');
-  font-weight: bold;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'sf-pro';
-  src: url('fonts/SF-Pro-Text-Regular.otf');
-  font-weight normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'sf-pro-heavy';
-  src: url('fonts/SF-Pro-Text-Heavy.otf');
-  font-weight: bold;
-  font-style: normal;
-}
 body {
-	font-family: "sf-pro";
+	font-family: "Avenir";
 	color: #FFF;
   background: #ff7b14;
   /* fallback for old browsers */
@@ -84,7 +66,6 @@ body {
 	color: #484848;
 }
 .title-font {
-  font-family: 'sf-pro-heavy';
   font-size: 4em;
   font-weight: bold;
 }
